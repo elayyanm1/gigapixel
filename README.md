@@ -15,7 +15,7 @@ Click the **copy button** on each box below to paste the values directly into th
 
 ### 1. Canada & Newfoundland (1935)
 
-[![Canada & Newfoundland (1935)](./thumbnails/gross1935.jpg)](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~253284~5518819)
+[![Canada & Newfoundland (1935)](./Gigpixel1935/TileGroup0/0-0-0.jpg)](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~253284~5518819)
 
 * **Source:** [David Rumsey Historical Map Collection (Public Domain / CC BY-NC-SA 3.0)](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~253284~5518819)
 * **URL:**
